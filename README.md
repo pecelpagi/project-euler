@@ -8,7 +8,7 @@ I create this project to improve my problem solving skill.
 1. Clone this repository
     
     ```
-    $ git clone git@github.com:pecelpagi/project-euler.git
+    git clone git@github.com:pecelpagi/project-euler.git
     ```
 2. Run `npm install` to install project's dependencies
 3. Run `npm test` to test all solutions
